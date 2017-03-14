@@ -1,5 +1,8 @@
 _repo: La-Bete-humaine_5154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -15,6 +18,8 @@ description: "La Bête Humaine is an 1890 novel by Émile Zola. The story has be
   \ for the cinema on several occasions. The seventeenth book in Zola's Les Rougon-Macquart\
   \ series, it is based upon the railway between Paris and Le Havre in the 19th century\
   \ and is a tense, psychological thriller.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5154#La-Bete-humaine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
