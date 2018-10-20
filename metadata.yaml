@@ -1,5 +1,5 @@
 _repo: La-Bete-humaine_5154
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PQ'
 - !lcsh 'French literature'
+- GITenberg
 title: La Bête humaine
 url: http://www.gutenberg.org/ebooks/5154
 wikipedia:
